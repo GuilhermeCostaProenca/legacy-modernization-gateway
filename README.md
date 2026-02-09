@@ -1,6 +1,6 @@
-# Ponte Legado
+﻿# Ponte Legado
 
-[![CI](https://github.com/GuilhermeCostaProenca/ponte-legado/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/GuilhermeCostaProenca/ponte-legado/actions/workflows/ci.yml)
+[![CI](https://github.com/GuilhermeCostaProenca/legacy-modernization-gateway/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/GuilhermeCostaProenca/legacy-modernization-gateway/actions/workflows/ci.yml)
 
 Digital product repository focused on a real market pain with portfolio-grade execution.
 
@@ -38,3 +38,4 @@ Backend .NET/Java, API gateway, PostgreSQL, frontend React
 
 ## Main risks
 Complexidade de integracao e heterogeneidade dos legados
+
